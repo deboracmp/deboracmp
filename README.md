@@ -1,6 +1,6 @@
 <h2> Hi, I'm Débora! </h2>
 <img align='right' src="https://media.giphy.com/media/3oz8xD60ymhwF35Xb2/giphy.gif" width="120">
-<p><em>UX Designer at <a href="https://www.uxalliance.com/">UX Alliance </a><img src="https://www.ux-pm.com/wp-content/uploads/2019/04/logo__UXPM.png" width="30"></br>Product Owner at <a href="http://www.caixa.gov.br/Paginas/home-caixa.aspx">Caixa Econômica Federal </a><img src="https://d1dfob8bq4e64u.cloudfront.net/leiloes/5d4040901bf58.png" width="15">
+<p><em>UX Designer certified at <a href="https://www.uxalliance.com/">UX Alliance </a><img src="https://www.ux-pm.com/wp-content/uploads/2019/04/logo__UXPM.png" width="30"></br>Product Owner at <a href="http://www.caixa.gov.br/Paginas/home-caixa.aspx">Caixa Econômica Federal </a><img src="https://d1dfob8bq4e64u.cloudfront.net/leiloes/5d4040901bf58.png" width="15">
 </em></p>
 
 
